@@ -9,3 +9,14 @@
   color: white;
 }
 
+img {
+  width: 200px;
+  display: block; 
+  margin: 0 auto;
+}
+
+h2, p {
+  display: flex; 
+  justify-content: center;
+}
+
